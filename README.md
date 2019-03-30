@@ -13,6 +13,6 @@ ng serve --open --host 0.0.0.0
 npm install -g angular-cli-ghpages
 ```
 ```
-ng build --prod --base-ref="https://USERNAME.github.io/REPONAME/"
-ngh --dir=dist/PROJECTNAME
+ng build --prod --baseHref="https://johnveloper.github.io/ng-hello-world/"
+ngh --dir=dist/a-hello-world
 ```
