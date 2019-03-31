@@ -3,7 +3,7 @@
 npm install -g @angular/cli
 ```
 ```
-ng new ha-ello-world
+ng new a-hello-world
 cd a-hello-world
 ng serve --open --host 0.0.0.0
 ```
