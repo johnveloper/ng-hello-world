@@ -20,3 +20,10 @@ npm install -g angular-cli-ghpages
 ng build --prod --baseHref="https://johnveloper.github.io/ng-hello-world/"
 ngh --dir=dist/a-hello-world
 ```
+
+## What I've learned
+- initializing new workspace
+- basic project file structure
+- component basics
+- production building
+- deploying to GitHub Pages
